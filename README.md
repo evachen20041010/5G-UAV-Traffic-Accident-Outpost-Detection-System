@@ -1,6 +1,6 @@
-# uav_client_5g
-
-5G-UAV-Traffic-Accident-Outpost-Detection-System
+# 5G-UAV-Traffic-Accident-Outpost-Detection-System
+- 5G 無人機之交通事故前哨偵查系統
+- 2023中華電信數位創新應用系列賽 5G創新應用大賽
 
 ## Getting Started
 
