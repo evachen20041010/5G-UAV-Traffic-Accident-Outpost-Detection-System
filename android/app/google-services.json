@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "723194232239",
+    "firebase_url": "https://g-uav-detection-system-7ca64-default-rtdb.firebaseio.com",
+    "project_id": "g-uav-detection-system-7ca64",
+    "storage_bucket": "g-uav-detection-system-7ca64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723194232239:android:b70fa0033d27ff9e1f035a",
+        "android_client_info": {
+          "package_name": "com.example.uav_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgZrvGK4cSbXP3rQtO6R9QD28cWdorOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723194232239:android:5d0066956c82b1761f035a",
+        "android_client_info": {
+          "package_name": "com.example.uav_client_5g"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgZrvGK4cSbXP3rQtO6R9QD28cWdorOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
